@@ -17,4 +17,4 @@ python notify.py
 
 ## Copyright
 
-- The program code is licensed under the MIT License.
+- The program code is licensed under GPL v3.
